@@ -1,0 +1,10 @@
+NAME			HelloWithClass	WINDOWAPI
+DESCRIPTION		'Hello Word using PMClass'
+DATA    		MULTIPLE
+
+STACKSIZE   16000
+HEAPSIZE    16000
+
+PROTMODE
+
+

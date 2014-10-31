@@ -1,0 +1,10 @@
+NAME			ImprovedEditor	WINDOWAPI
+DESCRIPTION		'Improved OS/2 Editor - (c) 1995 by Steven Gutz'
+DATA    		MULTIPLE
+
+STACKSIZE   16000
+HEAPSIZE    16000
+
+PROTMODE
+
+

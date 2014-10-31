@@ -1,0 +1,10 @@
+NAME			ObjWindow_PM_App	WINDOWAPI
+DESCRIPTION		'PM C Program using Object Windows'
+DATA    		MULTIPLE
+
+STACKSIZE		16000
+HEAPSIZE    	16000
+
+PROTMODE
+
+

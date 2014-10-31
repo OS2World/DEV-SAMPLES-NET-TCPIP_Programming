@@ -1,0 +1,16 @@
+#include <os2.h>
+#include "objwin.h"
+
+POINTER	D_ID_WINDOW		"winobj.ico"
+
+MENU D_ID_WINDOW
+BEGIN
+	MENUITEM "Sleep", DM_DO_SLEEP
+END
+
+
+ACCELTABLE D_ID_WINDOW PRELOAD MOVEABLE
+BEGIN
+	97, 258, CHAR, CONTROL
+END
+
